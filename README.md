@@ -96,6 +96,4 @@ A linha cronológica e de atividades planejada para este projeto seguiu o fluxo 
 ---
 
 ### Pré-requisitos
-Certifique-se de possuir o Flutter SDK e Git instalado em sua máquina. Para verificar execute:
-```bash
-flutter doctor
+Certifique-se de possuir o Flutter SDK e Git instalado em sua máquina. Para verificar execute: flutter doctor
