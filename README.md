@@ -87,9 +87,15 @@ A linha cronológica e de atividades planejada para este projeto seguiu o fluxo 
 
 ---
 
-## 🚀 Como Executar o Projeto Localmente
-
 ### Pré-requisitos
-Certifique-se de possuir o Flutter SDK instalado em sua máquina. Para verificar execute:
+Certifique-se de possuir o Flutter SDK e Git instalado em sua máquina. Para verificar execute:
 ```bash
 flutter doctor
+
+---
+
+## 🚀 Como Executar o Projeto Localmente pelo Terminal VsCode
+1. Abra a pasta do Projeto.
+2. Baixe os pacotes necessários pelo Terminal: flutter pub get
+3. Execute o aplicativo no navegador Chrome pelo Terminal: flutter run -d chrome
+4. O aplicativo vai compilar e abrir uma janela do Google Chrome. Nela você poderá cadastrar produtos e registrar vendas.
